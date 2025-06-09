@@ -8,22 +8,22 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": "ANJU-XPRO~"
+      "value": ""
     },
     "BOT_NUMBER": {
       "description": "The bot's phone number(Web accout created)",
       "required": true,
-      "value": "9478556644"
+      "value": "0716228685"
     },
     "PASSWORD": {
       "description": "Password for the bot (if any)",
       "required": true,
-      "value": ""
+      "value": "Chathura12345"
     },
     "SUDO": {
       "description": "Comma-separated list of sudo numbers",
       "required": true,
-      "value": "94717775628,94758775628"
+      "value": "94721732206,94742514900"
     },
     "PORT": {
       "description": "Port to run the bot on",
