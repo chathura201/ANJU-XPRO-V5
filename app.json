@@ -13,12 +13,12 @@
     "BOT_NUMBER": {
       "description": "The bot's phone number(Web accout created)",
       "required": true,
-      "value": "0716228685"
+      "value": "07235149005"
     },
     "PASSWORD": {
       "description": "Password for the bot (if any)",
       "required": true,
-      "value": "Chathura12345"
+      "value": "Chathura12345@@"
     },
     "SUDO": {
       "description": "Comma-separated list of sudo numbers",
