@@ -9,9 +9,6 @@
     "restart": "pm2 restart Queen_Anju"
   },
 
-"engines": {
-  "node": ">=20.0.0"
-},
 "dependencies": {
   "@adiwajshing/keyed-db": "^0.2.4",
     "@adiwajshing/keyed-db": "^0.2.4",
